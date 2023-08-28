@@ -36,12 +36,10 @@ Ce projet vise à créer un système de gestion de soumissions de projets étudi
    python manage.py migrate
 
 5. Créez un superutilisateur pour accéder à l'interface d'administration :
-
-python manage.py createsuperuser
+   python manage.py createsuperuser
 
 6. Lancez le serveur de développement :
-
-python manage.py runserver
+   python manage.py runserver
 
 7. Accédez au site via votre navigateur à l'adresse [http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
 
